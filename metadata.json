@@ -1,0 +1,5 @@
+{
+  "name": "EC2 Instance Cost Estimator",
+  "description": "An application to estimate the monthly on-demand cost of specific AWS EC2 instance types using the Gemini API. Select an instance type to see its vCPU count, memory, and estimated cost.",
+  "requestFramePermissions": []
+}
